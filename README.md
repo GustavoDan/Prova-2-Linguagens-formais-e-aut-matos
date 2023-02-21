@@ -1,0 +1,2 @@
+# Prova 2 de "Linguagens formais e autômatos"
+Projeto em PHP que fiz para a 2ª prova da matéria "Linguagens formais e autômatos", o objetivo era fazer a validação(Back-End e Front-End) dos dados inseridos em um formulário de cadastro, além de adicionar máscaras em todos os campos onde era possível, sem usar bibliotecas.
